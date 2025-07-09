@@ -1,0 +1,4 @@
+sefer,sefer,70,20,0,10,10,30,10,60,10,80,0,20
+deneme,deneme,10
+ogrenci,ogrencŸ
+sefer58,sefer58,10
